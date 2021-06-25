@@ -1,12 +1,11 @@
 {
-    "token" : "", 
-    "prefix" : "!",
-    "Wserverid" : "805446205818667028",
-    "Wchannelid" : "805446206058135552",
-    "Wroleid" : "805446205818667029",
-    "channelidlvl" : "805446206724767789",
-    "muterole" : "805456426717020161",
-    "role1" : "805446205848682508",
-    "ticketcategoid" : "806933538464333845"
+    "token" : "XXXXXXXXXXXXXXXXXXX", 
+    "prefix" : "X",
+    "Wserverid" : "XX",
+    "Wchannelid" : "X",
+    "Wroleid" : "X",
+    "channelidlvl" : "X",
+    "muterole" : "X",
+    "role1" : "X",
+    "ticketcategoid" : "X"
 }
-
